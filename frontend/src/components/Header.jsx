@@ -1,4 +1,3 @@
-import React from "react";
 import { Image, useColorMode, Flex } from "@chakra-ui/react";
 
 const Header = () => {
